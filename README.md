@@ -1,1 +1,11 @@
 # tinkoff_test
+![](https://github.com/moskovchenkonastya/tinkoff_test/blob/master/frontend/Screen%20Shot%202017-09-11%20at%2013.28.15.png)
+![](https://github.com/moskovchenkonastya/tinkoff_test/blob/master/frontend/Screen%20Shot%202017-09-11%20at%2013.28.22.png)
+![](https://github.com/moskovchenkonastya/tinkoff_test/blob/master/frontend/Screen%20Shot%202017-09-11%20at%2013.28.34.png)
+![](https://github.com/moskovchenkonastya/tinkoff_test/blob/master/frontend/Screen%20Shot%202017-09-11%20at%2013.28.43.png)
+![](https://github.com/moskovchenkonastya/tinkoff_test/blob/master/frontend/Screen%20Shot%202017-09-11%20at%2013.28.54.png)
+![](https://github.com/moskovchenkonastya/tinkoff_test/blob/master/frontend/Screen%20Shot%202017-09-11%20at%2013.29.04.png)
+![](https://github.com/moskovchenkonastya/tinkoff_test/blob/master/frontend/Screen%20Shot%202017-09-11%20at%2013.29.17.png)
+![](https://github.com/moskovchenkonastya/tinkoff_test/blob/master/frontend/Screen%20Shot%202017-09-11%20at%2013.29.22.png)
+![](https://github.com/moskovchenkonastya/tinkoff_test/blob/master/frontend/Screen%20Shot%202017-09-11%20at%2013.29.29.png)
+![](https://github.com/moskovchenkonastya/tinkoff_test/blob/master/frontend/Screen%20Shot%202017-09-11%20at%2013.29.39.png)
